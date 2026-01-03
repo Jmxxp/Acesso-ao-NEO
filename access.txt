@@ -39,13 +39,11 @@ ______________________________________
 ______________________________________
 
 (  ) , [  ] , {LIBERADO}
-
 ______________________________________
 
 
-*********************************************!UPDATE!
-
-{V1.0.0}
-
-[  https://download2297.mediafire.com/bp00g7e2hfygPY2zm81dvKLu2RiFdg22B5c-BIi5KrwiY6Eee0K_dlcBVFYmN5FCEXHJeHcaUiwoZiIVsKJiSKly4g9B2Hr3jEjyX6Jd-kIjCbjltUJCY2NgYRlU1rUgck-M09vsKdn239frBwVZ4flyVJoswZ_l4lRH0T8JBa_kCw/9bmpyv57rr44xgp/com.neo.apk  ]
+*********************************************
+!UPDATE!
+{1.0.1}
+[https://mediafire.com/.../com.neo.apk]
 *********************************************
